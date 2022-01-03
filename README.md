@@ -48,7 +48,7 @@ First time working with SCSS, found it very helpfull and easy to use
 
 ### Useful resources
 
-- [NFT Preview Card Tutoria](https://www.youtube.com/watch?v=DpGEOcgcHeA&t=904s) - a very good tutorial, easy to follow
+- [NFT Preview Card Tutorial](https://www.youtube.com/watch?v=DpGEOcgcHeA&t=904s) - a very good tutorial, easy to follow
 
 
 ## Author
