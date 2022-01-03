@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-component-zUc0IaT24)
-- Live Site URL: (https://iakov-zelenkov-nft-preview.netlify.app/)
+- Live Site URL: https://iakov-zelenkov-nft-preview.netlify.app/
 
 ## My process
 
