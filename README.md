@@ -15,7 +15,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -42,7 +41,6 @@ Users should be able to:
 -HTML
 -SCSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
