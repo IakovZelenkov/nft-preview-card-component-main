@@ -58,4 +58,4 @@ First time working with SCSS, found it very helpfull and easy to use
 
 ## Acknowledgments
 
-Grizhlie Codes`s tutorial video was a great help (link in links section)
+Grizhlie Codes`s tutorial video was a great help (link in Useful resources section)
